@@ -1,7 +1,7 @@
 {
-  "name": "react-lazyload",
+  "name": "parm-react-lazyload",
   "version": "3.2.0",
-  "description": "Lazyload your components, images or anything where performance matters.",
+  "description": "fork of react-lazyload because it stopped working on react 18.",
   "main": "lib/index.js",
   "scripts": {
     "test": "karma start test/karma.conf.js",
